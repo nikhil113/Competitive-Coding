@@ -1,5 +1,9 @@
 package com.kthSmallest;
 
+/**
+ * Finding kth smallest through quick sort.
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
